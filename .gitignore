@@ -1,3 +1,7 @@
 *.pyc
+<<<<<<< HEAD
 .DS_Store
 __pycache__
+=======
+.DS_Store
+>>>>>>> 0a1381689f503422c17075cef342576ebe6f1287
